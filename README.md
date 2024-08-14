@@ -8,14 +8,14 @@
 
 ## Autoware Course
 
-*Ongoing*
+*Ongoing* \
 **Course Link**: [Autoware course hosted by Apex.AI](https://github.com/real-Sandip-Das/Autoware2020CourseDocumentation)
 
 - **Documentation Link**: [GitHub link to my documentation](https://github.com/real-Sandip-Das/Autoware2020CourseDocumentation)
 
 ## Long Term Simulation Task
 
-*Completed*
+*Completed* \
 **Task Link**: [tharun-selvam/sim_task_agv](https://github.com/tharun-selvam/sim_task_agv)
 
 - This project consists of multiple GitHub repositories edited by myself.
@@ -27,7 +27,7 @@
 
 ## Conflict Based Search
 
-*Edited and Improved*
+*Edited and Improved* \
 **Link to Paper**: [Conflict-based search for optimal multi-agent pathfinding](https://doi.org/10.1016/j.artint.2014.11.006)
 
 - Task based on implementation of an algorithm described in a paper
@@ -36,7 +36,7 @@
 
 ## Introductory ROS Task 1
 
-*Completed*
+*Completed* \
 [Google Doc with Problem statement and relevant details](https://docs.google.com/document/d/1OhTyhqbF9AmXvqavk3pljdnWdggEaLWJNToXuGUitWs/edit)
 
 - In short, contains a publisher and a subscriber node, both written in C++, where things like the published dummy string, topic(for publishing/subscribing to), queue size of subscriber node are customizable using ROS Parameters
@@ -45,7 +45,7 @@
 
 ## Introductory ROS Task 2
 
-*Completed*
+*Completed* \
 [Google Doc with Problem statement and relevant details](https://docs.google.com/document/d/1OhTyhqbF9AmXvqavk3pljdnWdggEaLWJNToXuGUitWs/edit)
 
 - This task involves a light amount of mathematics, so I've used **LaTeX(MathJax)** to document the mathematical details (calculations)
@@ -56,7 +56,7 @@
 
 ## Introductory ROS Course by ETH, Zurich
 
-*Completed*
+*Completed* \
 **Course Link**: [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html)
 
 - **Documentation**: [real-Sandip-Das/AGV-ROS-task-doc](https://github.com/real-Sandip-Das/AGV-ROS-task-doc)
@@ -64,7 +64,7 @@
 
 ## Introductory Git Task
 
-*Completed*
+*Completed* \
 **Task Link**: [Cath3dr4l/AGV-git-task](https://github.com/Cath3dr4l/AGV-git-task)
 
 - **Documentation**: [real-Sandip-Das/AGV-git-task-doc](https://github.com/real-Sandip-Das/AGV-git-task-doc)
