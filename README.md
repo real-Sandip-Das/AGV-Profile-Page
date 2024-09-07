@@ -6,6 +6,16 @@
 - Member of the Software Team
 - A Sophomore as of Aug 2024
 
+## Minimum Curvature trajectory planning
+
+*Completed* \
+**Reference Paper**: [Minimum curvature trajectory planning and control for an autonomous race car](https://doi.org/10.1080/00423114.2019.1631455)
+
+- **Link to Implementation**: [AGV-2023-Planning-Teams/minimum_curvature_planner](https://github.com/AGV-2023-Planning-Teams/minimum_curvature_planner)
+- Calculated the QP problem that needs to be passed to a solver
+- Coded a setup to visualize output trajectories
+- Created a Powerpoint presentation to describe the algorithm
+
 ## Autoware Course
 
 *Ongoing* \
