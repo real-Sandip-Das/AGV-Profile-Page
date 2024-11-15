@@ -9,7 +9,7 @@
 ## Inverse Reinforcement Learning
 
 *Ongoing* \
-Smaller projects done till now for understanding the basics: \
+Smaller projects done till now for understanding the basics:
 - Implemented an Optimal Policy generator by iteratively solving the Bellman Equation for a 2D grid environment, specifically one where each square is either an obstacle or is one with a reward for it. [Link](https://github.com/real-Sandip-Das/2DGridRL)
 
 ## Minimum Curvature trajectory planning
